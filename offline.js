@@ -1,0 +1,29 @@
+﻿{
+	"version": 1548828014,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/spr_logo-sheet0.png",
+		"images/spr_side_menu-sheet0.png",
+		"images/spr_contact-sheet0.png",
+		"images/spr_contact-sheet1.png",
+		"images/spr_gui-sheet0.png",
+		"images/spr_foto-sheet0.png",
+		"images/menubutton-sheet0.png",
+		"images/aboutbutton-sheet0.png",
+		"images/contactbutton-sheet0.png",
+		"images/exitbutton-sheet0.png",
+		"images/editbutton-sheet0.png",
+		"images/signinbutton-sheet0.png",
+		"images/signupbutton-sheet0.png",
+		"images/sendbutton-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
